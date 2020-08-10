@@ -1,4 +1,4 @@
 # Sample Product Card UI
-| After               | Before             |
+| Before              | After              |
 | ------------------- |:------------------:|
 | ![](README/off.png) | ![](README/on.png) |
