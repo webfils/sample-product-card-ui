@@ -1,3 +1,3 @@
 # Sample Product Card UI
-![](README/off.png)
+![very good|512x397](README/off.png)
 ![](README/on.png)
