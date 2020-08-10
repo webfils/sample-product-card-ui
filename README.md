@@ -1,3 +1,3 @@
 # sample-product-card-ui
-![](README/off.png) { width: 50% }
-![](README/on.png) { width: 50% }
+![](README/off.png = 300x)
+![](README/on.png = 300x)
